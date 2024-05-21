@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "General Hospital",
+    "patientCount": 250,
+    "location": "City Center"
+  },
+  {
+    "name": "North Hospital",
+    "patientCount": 200,
+    "location": "North District",
+    "id": 3
+  },
+  {
+    "name": "North Hospital",
+    "patientCount": 200,
+    "location": "North District",
+    "id": 4
+  },
+  {
+    "name": "North Hospital",
+    "patientCount": 200,
+    "location": "North District",
+    "id": 5
+  }
+]
